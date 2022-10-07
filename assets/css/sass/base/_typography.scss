@@ -1,0 +1,17 @@
+/*intégration des polices et des couleurs */
+
+html {
+	font-family: "Roboto", sans-serif;
+	body {
+		color: #000;
+		a {
+			color: #000;
+		}
+		header, .menu_title, .btn_index {
+			font-family: "Shrikhand", cursive;
+		}
+		footer a {
+			color: white;
+		}
+	}
+  }

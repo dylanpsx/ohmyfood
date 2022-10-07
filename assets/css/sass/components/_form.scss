@@ -1,0 +1,20 @@
+  /*formulaire de recherche*/
+  
+  form {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	padding: 15px 0px 15px 0px;
+	background-color: #eaeaea;
+	box-shadow: 0 4px 4px inset #c0c0c0;
+	input {
+	  background-color: transparent;
+	  border: 0;
+	  font-weight: bold;
+	  font-size: 18px;
+	  text-align: center;
+		&:focus {
+			outline: none;
+		}
+	}
+  }

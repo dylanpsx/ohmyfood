@@ -1,0 +1,32 @@
+  /*intégration des boutons*/
+  @import "../sass-utils/variables";
+  .btn {
+	background-image: linear-gradient($secondary, $primary);
+	border-radius: 25px;
+	padding: 15px;
+	font-size: 15px;
+	border: 0;
+	color: whitesmoke;
+	max-width: 300px;
+	box-shadow: #a5a5a5 0 5px 10px;
+	&:hover {
+	  background: linear-gradient(
+		356deg,
+		#a16be0 0%,
+		#a16be0 33%,
+		#ff93e1 88%,
+		#ff93e1 100%
+	  );
+	  box-shadow: #4b4b4b 0 5px 10px;
+	  transition: 0.5s ease-in-out;
+	}
+  }
+  .btn_explore {
+	@extend .btn;
+  }
+  .btn_order {
+	@extend .btn;
+	align-self: center;
+	padding-left: 50px;
+	padding-right: 50px;
+  }
