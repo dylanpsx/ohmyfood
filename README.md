@@ -1,42 +1,31 @@
-# Dynamisez une page web
+# Ohmyfood! - Dynamisez une page web avec des animations CSS
 
-👤 &nbsp; **Dylan Psx**
+## Description
 
-* GitHub: [@dylanpsx](https://github.com/dylanpsx?tab=repositories "Cliquez pour voir mes projets")
-* LinkedIn: [@dylanpsx](https://www.linkedin.com/in/dylanpsx/ "Visitez mon profil LinkedIn")
+Ohmyfood! est un projet qui consiste à dynamiser une page web en utilisant des animations CSS. Il s'agit d'une jeune startup qui voudrait s'imposer sur le marché de la restauration en proposant une plateforme 100% mobile répertoriant les menus de restaurants gastronomiques. Les clients auront la possibilité de composer leur menu et de passer commande en avance, afin d'éviter les temps d'attente au restaurant.
 
-***
-## 📎 Projet 3 - Dynamisez une page web avec des animations CSS - Ohmyfood!
+Ce projet fait partie de ma formation en développement web et me permet d'approfondir mes compétences en HTML, CSS et animations CSS, ainsi que de créer des expériences utilisateur engageantes et interactives.
 
-### Passer d'une maquette à un site Web
+## Fonctionnalités principales
 
-Le rendu final hébergé sur GitHub : [Ohmyfood!](https://dylanpsx.github.io/ohmyfood/)
+- Affichage des menus de restaurants gastronomiques avec des animations CSS attrayantes.
+- Interface utilisateur conviviale et responsive pour une expérience utilisateur fluide.
 
-#### 🔨 Créer un site dynamique grâce à HTML & CSS
+## Technologies utilisées
 
-##### Compétences évaluées
+- HTML
+- CSS
+- Animations CSS
 
+## Installation
 
-* Mettre en place une structure de navigation pour un site web
-* Mettre en place son environnement Front-End
-* Utiliser un système de gestion de versions pour le suivi du projet et son hébergement
-* Mettre en œuvre des effets CSS graphiques avancés
-* Assurer la cohérence graphique d'un site web
-* Respecter les [spécifications fonctionnelles et techniques](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P3+CSS+animations/DW+P3+-+Brief+creatif+-+Ohmyfood!.pdf "voir les spécifications")
+1. Clonez ce dépôt sur votre machine locale.
+2. Ouvrez le fichier `index.html` dans votre navigateur web.
 
-***
+## Auteur
 
-## Back end Installation ##
+- Votre Nom
+- Votre Email
 
- `npm install`
- `npm init`
- `npm install express`
- `npm install uuid`
-
-
-Start server :  `node server`
-
-### Travail réalisé
-
-Veuillez me contacter pour découvrir l'intégralité du travail réalisé.
+Ce projet est réalisé dans le cadre de ma formation en développement web.
 
