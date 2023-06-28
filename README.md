@@ -22,10 +22,5 @@ Ce projet fait partie de ma formation en développement web et me permet d'appro
 1. Clonez ce dépôt sur votre machine locale.
 2. Ouvrez le fichier `index.html` dans votre navigateur web.
 
-## Auteur
-
-- Votre Nom
-- Votre Email
-
 Ce projet est réalisé dans le cadre de ma formation en développement web.
 
